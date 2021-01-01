@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/daan23411/24-7-music-bot#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
     "discord.js": "^12.5.1",
     "ffmpeg-static": "^4.2.7",
     "opusscript": "0.0.7",
